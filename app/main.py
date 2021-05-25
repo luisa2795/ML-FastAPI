@@ -7,6 +7,9 @@ from pydantic import BaseModel
 #import uvicorn
 from fastapi import FastAPI
 
+#load sklearn to use our model
+from sklearn.ensemble import RandomForestClassifier
+
 # logging
 import logging
 
