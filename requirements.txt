@@ -14,5 +14,5 @@ numpy
 pydantic
 uvicorn[standard]
 fastapi
-#scikit-learn
-#pandas
+scikit-learn
+pandas
